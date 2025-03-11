@@ -6,4 +6,4 @@ Implemented sophisticated rendering techniques including Multiple Importance Sam
 
 Examples:
 
-![image info]()
+![Golden obj](gold_256_MIS.png)
